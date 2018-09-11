@@ -1,5 +1,1 @@
-a=10
-def fun():
-	print "thi is fun"
-fun()
-print a
+print "this is sales in modules"

@@ -1,0 +1,12 @@
+Name: WAREHOUSE MANAGEMENT
+actors:
+	vendor, warehouse manger, admin.
+abstract:
+	This project will help the warehouse manager to track in and out stock. It will also helps to 
+	vendor to track his own stock by himself.
+Menus:
+	Once the user run my software will show below menu:
+		1. registration
+		2. login
+Database:
+
